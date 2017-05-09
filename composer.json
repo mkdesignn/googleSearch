@@ -1,0 +1,21 @@
+{
+    "name": "mkdesignn/googlesearch",
+    "description": "search keyword, phrase, sentence in google",
+    "type": "composer-plugin",
+    "require": {
+        "php": ">=5.3"
+    },
+    "autoload":{
+      "psr-4":{
+          "mkdesignn\\googlesearch\\":"src"
+      }
+    },
+    "license": "mit",
+    "authors": [
+        {
+            "name": "mohammad kaab",
+            "email": "mohammad.kaab@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
