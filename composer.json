@@ -1,7 +1,6 @@
 {
     "name": "mkdesignn/googlesearch",
     "description": "search keyword, phrase, sentence in google",
-    "type": "composer-plugin",
     "require": {
         "php": ">=5.3"
     },
