@@ -44,7 +44,7 @@ class google
                 unset($matches[0][$key]);
         }
 
-
+        // return all matches result
         return $matches[0];
     }
 }
